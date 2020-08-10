@@ -1,6 +1,7 @@
 # rudrank-dataset
 all the dataset collection which i have used in my projects
 
+#structured
 ## Binray classification
  - breast_cancer_wisconsin
  - 2d_circles
@@ -29,3 +30,9 @@ all the dataset collection which i have used in my projects
  - house_prices
  - regression_1
  - regression_2
+#text/nlp
+#audio
+#video
+#sensor
+
+
